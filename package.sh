@@ -1,3 +1,3 @@
 #!/bin/bash -e
 
-echo "My package script!!!"
+echo "My package script!"
