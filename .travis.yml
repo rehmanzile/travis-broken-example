@@ -10,5 +10,7 @@ php:
 script: phpunit Test.php
 
 
-after_success:
+language: bash
+script:
   - ./package.sh
+  - ./package2.sh
